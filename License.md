@@ -11,6 +11,7 @@
 ##### com.android.support:support-annotations 
 ##### com.android.support:cardview-v7 
 ##### com.android.support:customtabs 
+##### com.android.support:percent
 ##### com.android.support.test.espresso:espresso-core 
 ##### com.android.support.test:runner 
 ```
