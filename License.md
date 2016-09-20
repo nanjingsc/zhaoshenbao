@@ -1,5 +1,36 @@
 # README
 
+### icons
+
+感谢设计师们的辛劳
+
+##### ic_ch_scan_barcodes_48px.svg -> ic_scan_barcode_24dp.xml
+```
+萌萌的小雅酱
+http://coolapk.com/u/436688
+Material design icons
+https://www.google.com/design/icons/
+
+We have made these icons available for you to incorporate them into your products 
+under the Creative Common Attribution 4.0 International License (CC-BY 4.0).
+http://creativecommons.org/licenses/by/4.0/
+Feel free to remix and re-share these icons and documentation in your products.
+We'd love attribution in your app's about screen, but it's not required. 
+The only thing we ask is that you not re-sell the icons themselves.
+```
+
+##### All other Material Design Icons
+```
+Material design icons
+https://www.google.com/design/icons/
+
+We have made these icons available for you to incorporate them into your products 
+under the Creative Common Attribution 4.0 International License (CC-BY 4.0).
+http://creativecommons.org/licenses/by/4.0/
+Feel free to remix and re-share these icons and documentation in your products.
+We'd love attribution in your app's about screen, but it's not required. 
+The only thing we ask is that you not re-sell the icons themselves.
+```
 
 ### Third Party License 
 
